@@ -11,6 +11,6 @@
     <title>this is a test page</title>
 </head>
 <body>
-hello, welcome to spring webflow!
+hello2, welcome to spring webflow!
 </body>
 </html>

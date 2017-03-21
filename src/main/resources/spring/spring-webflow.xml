@@ -18,9 +18,6 @@
         <property name="flowRegistry" ref="flowRegistry" />
     </bean>
 
-    <!--
-     Dispatches requests mapped to flows to FlowHandler implementations
-    -->
     <bean class="org.springframework.webflow.mvc.servlet.FlowHandlerAdapter">
         <property name="flowExecutor" ref="flowExecutor" />
     </bean>
