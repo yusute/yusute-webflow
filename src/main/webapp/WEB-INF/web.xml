@@ -35,6 +35,7 @@
     <listener>
         <listener-class>org.apache.logging.log4j.web.Log4jServletContextListener</listener-class>
     </listener>
+
     <!-- log4j2 end -->
 
     <welcome-file-list>
